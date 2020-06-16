@@ -1,0 +1,6 @@
+name = "discord"
+type = "webpack"
+account_id = "8d093faf5772cff838a12d1c9bc87afd"
+# workers_dev = true
+route = "discord.cryptopolys.com"
+zone_id = "797ff5cb40fd4764b30e65a82db815f2"
