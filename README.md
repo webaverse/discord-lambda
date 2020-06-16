@@ -2,9 +2,7 @@
 
 ## Configure
 
-*Requires a config file*
-
-### config.json
+### config.json (required)
 ```
 {
   token: "AAA",
